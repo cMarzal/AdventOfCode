@@ -1,0 +1,1 @@
+print(sum([(int(line.split("x")[0])*int(line.split(":")[0].split("x")[1]))>=9*sum(list(map(int, line.split()[1:]))) for line in open("inp").read().split("\n\n")[-1].split("\n")]))

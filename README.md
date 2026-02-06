@@ -1,2 +1,5 @@
 # AdventOfCode
-Repo with all my AdventOfCode solutions from all years
+
+My solutions for Advent of Code - Programing puzzles done in Python.
+
+Check it out at https://adventofcode.com/about
